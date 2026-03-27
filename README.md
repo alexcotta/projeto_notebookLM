@@ -6,6 +6,7 @@ de estudos com temas gerais pertinentes a área, além cenarios de testes para a
 conhecimentos adquiridos.
 
 
+
 ## Exemplos de fontes utilizadas
 
 - [Diferentes funções em segurança da informação](https://www.youtube.com/watch?v=CtKc2h-Gs0k)
